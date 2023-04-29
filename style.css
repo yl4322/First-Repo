@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+}
+
+.image-circle {
+    border-radius: 60%; 
+}
+
+
+header {
+  height: 50px;
+  background-color: grey;
+  text-align: center;
+}
