@@ -4,17 +4,38 @@ html {
   text-align: center;
 }
 
+.interest{
+  font-family: 'Architects Daughter', cursive;
+  font-size: 15px;
+  color: #3f4c66;
+  text-align: center;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #3f4c66;
+  /* added */
+}
+
+body {
+    background-image: url("background2.jpeg");
+    background-color: #cccccc;  
+}
+
+.title {color:azure}
+
 img {
   width: 200px;
 }
 
 .image-circle {
-    border-radius: 60%; 
+    border-radius: 50%; 
 }
-
-
+  
 header {
   height: 50px;
-  background-color: grey;
+  background-color: black;
   text-align: center;
 }
+
+a:link    { color: blue;  }
+a:hover   { color: green; }
+
+
